@@ -2,15 +2,14 @@
 
 _**Lista de Ingredientes**_
 
-* 1/4 xícaras de vinagre
-* 1/4 xícaras de catchup
-* 1 cravo
-* 3 colheres de açucar
-* 3 colheres de sobremesa de molho shoyu
-* 2 colheres de azeite
-* 1 alho batido
-* 1 cebola
-* 1 colher de sobremesa de suco de limão
+* 2 colheres (sopa) de fermento biológico seco
+* 1 colher (chá) de açúcar
+* 1 xícara de leite morno
+* 1/2 xícara de óleo
+* 3 ovos
+* 4 xícaras de farinha de trigo
+* sal a gosto
+* 1 gema para pincelar
 
 _**Recheio**_
 
