@@ -1,4 +1,4 @@
-# strogonoff de Frango
+# Strogonoff de Frango
 
 _**Lista de Ingredientes**_
 
