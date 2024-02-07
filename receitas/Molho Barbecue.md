@@ -5,7 +5,7 @@ _**Lista de Ingredientes**_
 * 1/4 xícaras de vinagre
 * 1/4 xícaras de catchup
 * 1 cravo
-* 3 colheres de açucar
+* 3 colheres de açucar mascavo
 * 3 colheres de sobremesa de molho shoyu
 * 2 colheres de azeite
 * 1 alho batido
