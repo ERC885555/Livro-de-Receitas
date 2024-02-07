@@ -10,7 +10,8 @@ _**Lista de Ingredientes**_
 
 _**Modo de Preparo**_
 
-1-Jogue tudo na panela em fogo baixo e mexa sem parar até estourar tudo.<br>
+1-Jogue tudo na panela em fogo baixo e mexa sem parar até estourar tudo.
+<br>
 2-Despeje em uma forma para não empedrar.
 
 

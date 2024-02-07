@@ -10,11 +10,16 @@ _**Lista de Ingredientes**_
 
 _**Modo de Preparo**_
 
-1-Misture todos os ingredientes na panela e leve a fogo médio.<br>
-2-Ferva até sair o cheiro ácido do vinagre.<br>
-3-Deixe esfriar em temperatura ambiente.<br>
-4-fatie os pepinos bem fininho (com casca e tudo).<br>
-5-Deixe marinando de 12h a 24h.<br>
+1-Misture todos os ingredientes na panela e leve a fogo médio.
+<br>
+2-Ferva até sair o cheiro ácido do vinagre.
+<br>
+3-Deixe esfriar em temperatura ambiente.
+<br>
+4-fatie os pepinos bem fininho (com casca e tudo).
+<br>
+5-Deixe marinando de 12h a 24h.
+<br>
 6-Sirva com gergelim torrado.
 
 
