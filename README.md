@@ -1,7 +1,7 @@
 # Livro de Receitas
 _Olá! Bem vindo ao meu livro de receitas_
 
-* [**Tabela de Medidas Culinárias**](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Tabela%20de%20Medidas.md)
+# * [**Tabela de Medidas Culinárias**](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Tabela%20de%20Medidas.md)
 
 * [Amendoim Pralinê](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Amendoim%20Pralinê.md)
 * [Arroz Chop Suey](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Arroz%20Chop%20Suey.md)
