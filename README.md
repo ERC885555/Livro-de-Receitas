@@ -18,6 +18,6 @@ _Olá! Bem vindo ao meu livro de receitas_
 * [Pão sem Sova](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pão%20Sem%20Sova.md)
 * [Pipoca Doce](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pipoca%20Doce.md)
 * [Quentão](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Quent%C3%A3o.md)
-* [Sopa Amareilha](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Sopa%20Amarelinha.md)
+* [Sopa Amarelinha](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Sopa%20Amarelinha.md)
 * [Strogonoff de Frango](https://github.com/ERC885555/livro-receitas/blob/master/receitas/Strogonoff%20de%20Frango.md)
 * [Sunomono](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Sunomono.md)
