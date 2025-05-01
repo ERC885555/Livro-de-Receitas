@@ -14,6 +14,7 @@ _Olá! Bem vindo ao meu livro de receitas_
 * [Arroz Chop Suey](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Arroz%20Chop%20Suey.md)
 * [Panqueca Americana](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Panqueca%20Americana.md)
 * [Calda para Panqueca Americana](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Calda%20para%20Panqueca%20Americana.md)
+* [Casadinhos](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Casadinhos.md)
 * [Cinnamon Roll](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Cinnamon%20Roll.md)
 * [Frango Assado Especial](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Frango%20Assado%20na%20Maionese%20com%20Creme%20de%20Cebola.md)
 * [Marinada de Legumes](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Marinada%20para%20Legumes%20Grelhados.md)
