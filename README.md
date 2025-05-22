@@ -11,6 +11,7 @@ _Olá! Bem vindo ao meu livro de receitas_
 * [Frango Assado Especial](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Frango%20Assado%20na%20Maionese%20com%20Creme%20de%20Cebola.md)
 * [Marinada de Legumes](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Marinada%20para%20Legumes%20Grelhados.md)
 * [Molho Barbecue](https://github.com/ERC885555/livro-receitas/blob/master/receitas/Molho%20Barbecue.md)
+* [Panqueca Americana](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Panqueca.md)
 * [Panqueca Americana](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Panqueca%20Americana.md)
 * [Pão Caseiro sem Sova](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pão%20Caseiro%20Sem%20Sovar.md)
 * [Pão de Azeitona](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pão%20de%20Azeitona.md)
