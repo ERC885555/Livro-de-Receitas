@@ -15,6 +15,7 @@ _Olá! Bem vindo ao meu livro de receitas_
 * [Panqueca Americana](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Panqueca%20Americana.md)
 * [Pão Caseiro sem Sova](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pão%20Caseiro%20Sem%20Sovar.md)
 * [Pão de Azeitona](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pão%20de%20Azeitona.md)
+* [Pão de Cachorro Quente](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pão%20de%20Cachorro%20Quente.md)
 * [Pão de Frigideira](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pão%20de%20Frigideira.md)
 * [Pão sem Sova](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pão%20Sem%20Sova.md)
 * [Pipoca Doce](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Pipoca%20Doce.md)
