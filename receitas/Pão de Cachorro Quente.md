@@ -65,6 +65,8 @@ O problema é que se colocarmos leite demais, a massa ficará muito grudenta e d
 O segredo aqui é encontrar esse ponto de equilíbrio.
 Por isso, adicione mais leite bem aos poucos, duas tampinhas de cada vez.
 <br>
+<br>
+<br>
 10-Dobre bem a massa e realize alguns movimentos de sova por 5 minutos até agregar todo leite
 <br>
 11-Continue a sovar por mais 5 a 10 minutos.
