@@ -21,7 +21,7 @@ _**Lista de Ingredientes**_
 * 1 ovo grande
 * 40g (1/4 xícará) de manteira sem sal
 
-_**Modo de Preparo**_
+_**Cobertura**_
 * 1 ovo batido com um pouco de água
 * 10g (3/4 colher de sopa) de manteiga sem sal derretida (não muito quente)
 
