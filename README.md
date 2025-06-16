@@ -5,6 +5,7 @@ _Olá! Bem vindo ao meu livro de receitas_
 
 * [Amendoim Pralinê](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Amendoim%20Pralinê.md)
 * [Arroz Chop Suey](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Arroz%20Chop%20Suey.md)
+* [Briche Suiço](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Briche%20Suiço.md)
 * [Casadinhos](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Casadinhos.md)
 * [Chocolate Quente](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Chocolate%20Quente.md)
 * [Cinnamon Roll](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Cinnamon%20Roll.md)
