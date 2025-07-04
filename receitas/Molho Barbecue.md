@@ -14,9 +14,8 @@ _**Lista de Ingredientes**_
 
 _**Modo de Preparo**_
 
-1- Refogue o alho e a cebola no óleo.
-<br>
-2- Junte todos os outros ingredientes e espere encorporar.
+1- Refogue o alho e a cebola no óleo<br>
+2- Junte todos os outros ingredientes e espere encorporar
 
 
 [Voltar ao Livro de Receitas](https://github.com/ERC885555/livro-receitas)

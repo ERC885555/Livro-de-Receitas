@@ -16,18 +16,12 @@ _**Lista de Ingredientes**_
 
 _**Modo de Preparo**_
 
-1-Em um recepiente grande, adicione todos os sólidos (menos a batata palha)
-<br>
-2-Regue com azeite, adicione o creme de leite e misture
-<br>
-3-Quando atingir o ponto de pressão, cozinhe por 15 a 20 minutos.
-<br>
-4-Se for servir neste mesmo recipiente, alise o salpicão com as costas de uma colher.
-<br>
-5-Cubra com a batata palha 
-<br>
-6-Deixe na geladeira por 1 hora
-<br>
+1-Em um recepiente grande, adicione todos os sólidos (menos a batata palha)<br>
+2-Regue com azeite, adicione o creme de leite e misture<br>
+3-Quando atingir o ponto de pressão, cozinhe por 15 a 20 minutos<br>
+4-Se for servir neste mesmo recipiente, alise o salpicão com as costas de uma colher<br>
+5-Cubra com a batata palha<br>
+6-Deixe na geladeira por 1 hora<br>
 7-Sirva gelado
 
 

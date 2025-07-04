@@ -12,13 +12,9 @@ _**Lista de Ingredientes**_
 
 _**Modo de Preparo**_
 
-1-Misture todos os ingredientes na panela e leve a fogo médio para baixo.
-<br>
-2-Mexa sem parar até todos os ingredientes estiverem cristalizados(leva em torno de 5 a 15 minutos).
-<br>
-3-Despeje em uma forma para não empedrar.
-<br>
-4-Divirta-se.
+1-Misture todos os ingredientes na panela e leve a fogo médio para baixo.<br>
+2-Mexa sem parar até todos os ingredientes estiverem cristalizados(leva em torno de 5 a 15 minutos).<br>
+3-Despeje em uma forma para não empedrar.<br>
 
 
 [Voltar ao Livro de Receitas](https://github.com/ERC885555/livro-receitas)

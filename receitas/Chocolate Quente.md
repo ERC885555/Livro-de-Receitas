@@ -11,12 +11,9 @@ _**Lista de Ingredientes**_
 
 _**Modo de Preparo**_
 
-1-Esquente o leite até quase ponto de levantar fervura
-<br>
-2-Misture o achocolatado em pó no leite.
-<br>
-3-Ao mesmo tempo, coloque o creme de leite e o chocolate em um recipiente e leve ao microondas por ciclos de 30 segundos até se transformar em ganache
-<br>
+1-Esquente o leite até quase ponto de levantar fervura<br>
+2-Misture o achocolatado em pó no leite<br>
+3-Ao mesmo tempo, coloque o creme de leite e o chocolate em um recipiente e leve ao microondas por ciclos de 30 segundos até se transformar em ganache<br>
 4-Misture tudo e sirva-se
 
 

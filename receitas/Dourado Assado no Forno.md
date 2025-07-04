@@ -15,7 +15,6 @@ _**Lista de Ingredientes**_
 * Sal e pimenta (a gosto)
 * Alecrim fresco ou deisdratado (a gosto)
 
-
 _**Modo de Preparo**_
 
 1-Faça cortes transversais no peixe<br>

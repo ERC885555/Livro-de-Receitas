@@ -12,20 +12,13 @@ _**Lista de Ingredientes**_
 * 4 xícaras de farinha (480g)
 * 1 colher (chá) de sal (8g)
 
-
 _**Modo de Preparo**_
 
-1-Misture o leite morno e a água morna ao açúcar e ao fermento e a 1/2 xícara de farinha, misture bem e deixe descansar por 15 minutos.
-<br>
-2-Coloque o ovo, o óleo, o restante da farinha e o sal, misture bem e deixe descansar por mais 30 a 45 minutos.
-<br>
-3-Abra a massa e com um copo pequeno, utilize a boca dele para ir cortando pequenos pedaços de massa.
-<br>
-4-Deixe descansar por mais 30 a 40 minutos.
-<br>
-5-em uma panela em fogo médio pré aquecida, coloque os pães e asse até que fique moreninhos dos dois lados.
-<br>
-6-Sirva-os.
+1-Misture o leite morno e a água morna ao açúcar e ao fermento e a 1/2 xícara de farinha, misture bem e deixe descansar por 15 minutos<br>
+2-Coloque o ovo, o óleo, o restante da farinha e o sal, misture bem e deixe descansar por mais 30 a 45 minutos<br>
+3-Abra a massa e com um copo pequeno, utilize a boca dele para ir cortando pequenos pedaços de massa<br>
+4-Deixe descansar por mais 30 a 40 minutos<br>
+5-em uma panela em fogo médio pré aquecida, coloque os pães e asse até que fique moreninhos dos dois lados<br>
 
 
 [Voltar ao Livro de Receitas](https://github.com/ERC885555/livro-receitas)

@@ -12,15 +12,11 @@ _**Lista de Ingredientes**_
 
 _**Modo de Preparo**_
 
-1-Corte tudo em pequenos pedaços e junte em uma panela de pressão.
-<br>
-2-Coloque água até cobrir tudo.
-<br>
-3-Quando atingir o ponto de pressão, cozinhe por 15 a 20 minutos.
-<br>
-4-Bata tudo com uma batedeira ou um mixer.
-<br>
-5-Sirva-se
+1-Corte tudo em pequenos pedaços e junte em uma panela de pressão<br>
+2-Coloque água até cobrir tudo<br>
+3-Quando atingir o ponto de pressão, cozinhe por 15 a 20 minutos<br>
+4-Retire a carne e bata tudo com uma batedeira ou um mixer<br>
+5-Junte a carne e sirva
 
 
 [Voltar ao Livro de Receitas](https://github.com/ERC885555/livro-receitas)

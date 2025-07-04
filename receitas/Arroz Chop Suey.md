@@ -15,12 +15,9 @@ _**Lista de Ingredientes**_
 
 _**Modo de Preparo**_
 
-1-Frite o frango e o presunto no óleo até ficar bem frito.
-<br>
-2-Junte a cenoura e as ervilhas.
-<br>
-3-Bata os 3 ovos e frite em outra frigideira como se fosse ovo mexido e deixe em pedaços bem pequenos.
-<br>
+1-Frite o frango e o presunto no óleo até ficar bem frito.<br>
+2-Junte a cenoura e as ervilhas.<br>
+3-Bata os 3 ovos e frite em outra frigideira como se fosse ovo mexido e deixe em pedaços bem pequenos.<br>
 4-Junte tudo com o arroz, o shoyu, o sal e a cebolinha.
 
 
