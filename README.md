@@ -10,6 +10,7 @@ _Olá! Bem vindo ao meu livro de receitas_
 * [Casadinhos](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Casadinhos.md)
 * [Chocolate Quente](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Chocolate%20Quente.md)
 * [Cinnamon Roll](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Cinnamon%20Roll.md)
+* [Cocada do Coco Bambu](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Cocada%20do%20Coco%20Bambu.md)
 * [Dourado Assado no Forno](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Dourado%20Assado%20no%20Forno.md)
 * [Enroladinho de Queijo e Presunto](https://github.com/ERC885555/livro-receitas/blob/master/receitas/Enroladinho%20de%20Queijo%20e%20Presunto.md)
 * [Frango Assado Especial](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Frango%20Assado%20Especial.md)
@@ -29,3 +30,4 @@ _Olá! Bem vindo ao meu livro de receitas_
 * [Sopa Amarelinha](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Sopa%20Amarelinha.md)
 * [Strogonoff de Frango](https://github.com/ERC885555/livro-receitas/blob/master/receitas/Strogonoff%20de%20Frango.md)
 * [Sunomono](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Sunomono.md)
+* [Teriaki na Pressão](https://github.com/ERC885555/Livro-de-Receitas/blob/master/receitas/Teriaki%20na%20Pressão.md)

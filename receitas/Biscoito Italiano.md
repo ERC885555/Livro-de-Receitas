@@ -26,5 +26,4 @@ _**Modo de Preparo**_
 8-Sirva com vinho doce ou um bom café para molhar o biscotti<br>
 
 
-
 [Voltar ao Livro de Receitas](https://github.com/ERC885555/livro-receitas)

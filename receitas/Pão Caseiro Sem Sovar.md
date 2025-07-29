@@ -10,7 +10,6 @@ _**Lista de Ingredientes**_
 * 2 colheres (sopa) de açúcar
 * 1 colher (café) de sal
 
-
 _**Modo de Preparo**_
 
 1-No liquidificador coloque o ovo, o óleo, o açúcar, o sal, o fermento biológico seco e o leite morno<br>

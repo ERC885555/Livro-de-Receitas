@@ -34,5 +34,4 @@ _**Modo de Preparo**_
 10-Vire a forma para que asse por mais 25 minutos para que asse por igual dos dois lados<br>
 
 
-
 [Voltar ao Livro de Receitas](https://github.com/ERC885555/livro-receitas)
